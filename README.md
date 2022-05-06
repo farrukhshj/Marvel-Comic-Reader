@@ -1,8 +1,9 @@
 # Marvel-Comic-Reader
 External libraries used :
 Picasso - for loading images
-retrofit - for network calls
-gson - for converting network json response to model classes
+
+\nretrofit - for network calls
+\ngson - for converting network json response to model classes
 
 Android libraries used :
 Livedata
